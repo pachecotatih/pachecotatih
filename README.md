@@ -2,7 +2,7 @@
 
 - apaixonada por desenvolver Web
 - iniciante
-- Sistemas de Informação | 3º Período
+- Sistemas de Informação | 5º Período
 
 <a href="https://github.com/pachecotatih/">
 <div style="display: inline_block;">
