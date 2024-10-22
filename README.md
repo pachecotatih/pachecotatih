@@ -12,11 +12,8 @@
 </a>
 <h4>Segue aí abaixo minhas redes sociais: <h4>
   <div style="display: block;">
-    <a href="https://twitter.com/PachecoTatih" target="_blank">
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter">
-    </a>
     <a href="https://www.instagram.com/pachecotatih/" target="_blank">
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/Instagram_icon.png" alt="Instagram">
+        <img height="30" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram">
     </a>
     <a href="https://www.linkedin.com/in/tatiana-pacheco-barreto-a0b85b1ab/" target="_blank">
         <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
