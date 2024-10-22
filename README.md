@@ -12,10 +12,16 @@
 </a>
 <h4>Segue aí abaixo minhas redes sociais: <h4>
   <div style="display: block;">
-    <a href="https://twitter.com/PachecoTatih"target="_blank"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1617481110~hmac=4d7f279fcc3c5c7cd866e373bf7ffa36"></a>
-    <a href="https://www.instagram.com/pachecotatih/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617480818~hmac=0b7261644a6c3bbda5a4d06a0cc0d9d2" /></a>
-    <a href="https://www.linkedin.com/in/tatiana-pacheco-barreto-a0b85b1ab/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1617480994~hmac=5c21cb1edec63c9c66310ae36c218fd2" /></a>
-  </div>
+    <a href="https://twitter.com/PachecoTatih" target="_blank">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter">
+    </a>
+    <a href="https://www.instagram.com/pachecotatih/" target="_blank">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/tatiana-pacheco-barreto-a0b85b1ab/" target="_blank">
+        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+    </a>
+</div>
 <!---
 pachecotatih/pachecotatih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
