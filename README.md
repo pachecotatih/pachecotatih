@@ -5,8 +5,8 @@
 
 <a href="https://github.com/pachecotatih/">
 <div style="display: inline_block;">
-<img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pachecotatih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pachecotatih&theme=dracula&layout=compact"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=pachecotatih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecotatih&theme=dracula&layout=compact&locale=pt-br"/>
 </div>
 </a>
 <div style="display: inline-block;"><br>
@@ -17,7 +17,6 @@
   <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line.svg" />
   <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
