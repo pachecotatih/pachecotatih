@@ -5,8 +5,8 @@
 
 <a href="https://github.com/pachecotatih/">
 <div style="display: inline_block;">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=pachecotatih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecotatih&theme=dracula&layout=compact&locale=pt-br"/>
+<img height="180em" align="center" src="https://github-stats-extended.vercel.app/api?username=pachecotatih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="180em" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pachecotatih&theme=dracula&layout=compact&locale=pt-br"/>
 </div>
 </a>
 <div style="display: inline-block;"><br>
