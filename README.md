@@ -9,21 +9,23 @@
 <img height="180em" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pachecotatih&theme=dracula&layout=compact&locale=pt-br"/>
 </div>
 </a>
-<div style="display: inline-block;"><br>
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-  <img width=40; height=30; align=center; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-</div>
+
+### Frontend
+
+![Frontend](https://stats.pphat.top/icons?name=react,nextjs,javascript,typescript,tailwindcss,bootstrap,jquery)
+
+### Backend
+
+![Backend](https://stats.pphat.top/icons?name=laravel,php,nodejs,nestjs)
+
+### Mobile & CMS
+
+![Mobile](https://stats.pphat.top/icons?name=flutter,wordpress)
+
+### Banco e Ferramentas
+
+![Tools](https://stats.pphat.top/icons?name=mysql,postgresql,postman,jest)
+
 <h4>Segue aí abaixo minhas redes sociais: <h4>
   <div style="display: block;">
     <a href="https://www.instagram.com/pachecotatih/" target="_blank">
