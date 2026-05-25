@@ -1,6 +1,6 @@
 <h1>Olá! Me chamo Tatiana Pacheco</h1>
 
-- Desenvolvedora Web & Mobile Junior
+- Desenvolvedora Web & Mobile
 - Formada em Sistemas de Informação
 
 <a href="https://github.com/pachecotatih/">
