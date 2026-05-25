@@ -12,19 +12,19 @@
 
 ### Frontend
 
-![Frontend](https://stats.pphat.top/icons?name=react,nextjs,javascript,typescript,tailwindcss,bootstrap,jquery)
+![Frontend](https://stats.pphat.top/icons?name=react,nextjs,javascript,typescript,tailwindcss,bootstrap,jquery&effect=wave&columns=7)
 
 ### Backend
 
-![Backend](https://stats.pphat.top/icons?name=laravel,php,nodejs,nestjs)
+![Backend](https://stats.pphat.top/icons?name=laravel,php,nodejs,nestjs&effect=wave&columns=4)
 
 ### Mobile & CMS
 
-![Mobile](https://stats.pphat.top/icons?name=flutter,wordpress)
+![Mobile](https://stats.pphat.top/icons?name=flutter,wordpress&effect=wave&columns=2)
 
 ### Banco e Ferramentas
 
-![Tools](https://stats.pphat.top/icons?name=mysql,postgresql,postman,jest)
+![Tools](https://stats.pphat.top/icons?name=mysql,postgresql,postman,jest&effect=wave&columns=4)
 
 <h4>Segue aí abaixo minhas redes sociais: <h4>
   <div style="display: block;">
