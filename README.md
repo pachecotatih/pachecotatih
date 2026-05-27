@@ -2,8 +2,6 @@
 
 - Desenvolvedora Web & Mobile
 - Formada em Sistemas de Informação
-
-<a href="https://github.com/pachecotatih/">
 <div style="display: inline_block;">
 <img height="180em" align="center" src="https://github-stats-extended.vercel.app/api?username=pachecotatih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
 <img height="180em" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pachecotatih&theme=dracula&layout=compact&locale=pt-br"/>
@@ -12,7 +10,7 @@
 
 ### Frontend
 
-![Frontend](https://stats.pphat.top/icons?name=react,nextjs,javascript,typescript,tailwindcss,bootstrap,jquery&effect=wave&columns=7)
+![Frontend](https://stats.pphat.top/icons?name=html,css,react,nextjs,javascript,typescript,tailwindcss,bootstrap,jquery&effect=wave&columns=7)
 
 ### Backend
 
@@ -24,7 +22,7 @@
 
 ### Banco e Ferramentas
 
-![Tools](https://stats.pphat.top/icons?name=mysql,postgresql,postman,jest&effect=wave&columns=4)
+![Tools](https://stats.pphat.top/icons?name=mysql,postgresql,postman,jest,docker&effect=wave&columns=4)
 
 <h4>Segue aí abaixo minhas redes sociais: <h4>
   <div style="display: block;">
