@@ -25,7 +25,7 @@
 
 <h4>Segue aí abaixo minhas redes sociais: <h4>
   <div style="display: block;">
-    <a href="https://www.instagram.com/pachecotatih/" target="_blank">
+    <a href="https://www.instagram.com/tatih.dev/" target="_blank">
         <img height="30" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram">
     </a>
     <a href="https://www.linkedin.com/in/tatiana-pacheco-barreto-a0b85b1ab/" target="_blank">
