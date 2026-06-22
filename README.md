@@ -9,11 +9,11 @@
 
 ### Frontend
 
-![Frontend](https://stats.pphat.top/icons?name=html,css,react,nextjs,javascript,typescript,tailwindcss,bootstrap,jquery&effect=wave&columns=7)
+![Frontend](https://stats.pphat.top/icons?name=html,css,react,nextjs,javascript,typescript,tailwindcss,bootstrap,jquery,vuedotjs&effect=wave&columns=7)
 
 ### Backend
 
-![Backend](https://stats.pphat.top/icons?name=laravel,php,nodejs,nestjs&effect=wave&columns=4)
+![Backend](https://stats.pphat.top/icons?name=laravel,php,nodejs,nestjs,spring,java&effect=wave&columns=7)
 
 ### Mobile & CMS
 
