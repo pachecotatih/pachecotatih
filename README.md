@@ -1,38 +1,83 @@
 <h1>Olá! Me chamo Tatiana Pacheco</h1>
 
-- Desenvolvedora Web & Mobile
-- Formada em Sistemas de Informação
-<div style="display: inline_block;">
-<img height="180em" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pachecotatih&theme=dracula&layout=compact&locale=pt-br"/>
-</div>
-</a>
+<p> 
+  <strong>Desenvolvedora Full Stack • Web & Mobile</strong>
+  <br> 
+  Bacharel em Sistemas de Informação 
+</p>
 
-### Frontend
+<p> 
+  Apaixonada por desenvolver aplicações modernas, escaláveis e bem estruturadas. Busco evoluir continuamente, explorando novas tecnologias e enfrentando desafios que ampliem meus conhecimentos.
+</p>
 
-![Frontend](https://stats.pphat.top/icons?name=html,css,react,nextjs,javascript,typescript,tailwindcss,bootstrap,jquery,vuedotjs&effect=wave&columns=7)
+## 📊 Estatísticas 
+<p align="center"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pachecotatih&theme=dracula&show_icons=true">
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pachecotatih&layout=compact&theme=dracula&locale=pt-br"/>
+</p>
 
-### Backend
+## Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</p>
 
-![Backend](https://stats.pphat.top/icons?name=laravel,php,nodejs,nestjs,spring,java&effect=wave&columns=7)
 
-### Mobile & CMS
+## Backend
 
-![Mobile](https://stats.pphat.top/icons?name=flutter,wordpress&effect=wave&columns=2)
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
 
-### Banco e Ferramentas
 
-![Tools](https://stats.pphat.top/icons?name=mysql,postgresql,mongodb,postman,jest,docker&effect=wave&columns=4)
+## Bancos de dados
 
-<h4>Segue aí abaixo minhas redes sociais: <h4>
-  <div style="display: block;">
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+## DevOps & Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</p>
+
+
+## 📫 Contato
+  <p>
     <a href="https://www.instagram.com/tatih.dev/" target="_blank">
-        <img height="30" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://www.linkedin.com/in/tatiana-pacheco-barreto-a0b85b1ab/" target="_blank">
-        <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-</div>
-<!---
-pachecotatih/pachecotatih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
