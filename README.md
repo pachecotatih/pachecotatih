@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=BA1AF7&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Tatiana+Pacheco;Fullstack+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=BA1AF7&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Tatiana+Pacheco;Fullstack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p>
   <strong>Desenvolvedora Web • Mobile</strong>
