@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C616FF&center=true&vCenter=true&width=435&lines=Tatiana+Pacheco+%E2%80%A2+Fullstack+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=BA1AF7&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Tatiana+Pacheco;Fullstack+Developer)](https://git.io/typing-svg)
 
 <p>
   <strong>Desenvolvedora Web • Mobile</strong>
